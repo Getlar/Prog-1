@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554645426 source:e:\c\c\2017apr18k16\kulonbozobetuk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

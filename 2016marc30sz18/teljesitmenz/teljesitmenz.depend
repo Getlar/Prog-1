@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554576302 source:e:\c\c\2016marc30sz18\teljesitmenz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

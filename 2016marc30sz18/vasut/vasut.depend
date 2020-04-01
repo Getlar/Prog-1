@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554564198 source:e:\c\c\2016marc30sz18\vasut\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

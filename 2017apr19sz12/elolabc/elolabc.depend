@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554810624 source:e:\c\c\2017apr19sz12\elolabc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

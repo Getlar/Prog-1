@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557132518 source:e:\2.felev\prog1\masodikzhsajat\2015maj20sz10\meretalenyeg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

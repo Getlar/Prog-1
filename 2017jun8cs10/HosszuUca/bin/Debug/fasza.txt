@@ -1,0 +1,4 @@
+Szeged;Dom ter:12
+Miskolc;Szinva ter:32;Debreceni ut:120;Barcikai utca:19
+Debrecen;Piac utca:120;Kishegyesi ut:98
+Budapest;Andrassy ut:45

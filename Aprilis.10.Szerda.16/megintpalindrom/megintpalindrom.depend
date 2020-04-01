@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559427932 source:e:\2.felev\prog1\2019\apr10sz16\megintpalindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

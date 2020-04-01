@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559420188 source:e:\2.felev\prog1\2019\apr10sz14\futoka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

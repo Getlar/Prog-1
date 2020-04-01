@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559423952 source:e:\2.felev\prog1\2019\apr11cs14\parkolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

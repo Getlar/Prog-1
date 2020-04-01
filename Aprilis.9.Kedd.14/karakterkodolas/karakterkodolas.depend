@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559414286 source:e:\2.felev\prog1\2019\apr9k14_fv\karakterkodolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

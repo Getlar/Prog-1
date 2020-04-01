@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559383458 source:e:\2.felev\prog1\2019\apr9k14\betustatisztika\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

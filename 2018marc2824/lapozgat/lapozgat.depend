@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554467576 source:e:\c\c\2018marc2824\lapozgat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554479052 source:e:\c\c\2018marc27k16\nagybetus reszstrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554484126 source:e:\c\c\2018marc28sz10\dronka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
